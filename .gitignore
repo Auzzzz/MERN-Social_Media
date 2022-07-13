@@ -1,5 +1,7 @@
 client/node_modules
 server/node_modules
+client_old/
+server_old/
 client/node_modules/@babel/code-frame/LICENSE
 client/node_modules/@babel/code-frame/package.json
 client/node_modules/@babel/code-frame/README.md
@@ -62202,3 +62204,4 @@ server/node_modules/yallist/LICENSE
 server/node_modules/yallist/package.json
 server/node_modules/yallist/README.md
 server/node_modules/yallist/yallist.js
+server/.env
